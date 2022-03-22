@@ -1,0 +1,18 @@
+
+Fonts, symbols, and emojis
+So what exactly happens when you execute a font copy and paste from our text font generator? Is it actually a font, or is it a symbol?
+
+As mentioned, the text generator fonts you see are not actually fonts. Essentially, they are symbols assigned with a Unicode value.
+
+When you type in your text, our custom font generator then seeks out similar (but ‘fancier’) glyphs within the Unicode Standard. Technically, the ‘font’ you see is not truly a font, but rather a symbol.
+
+That’s why you can’t perform a direct copy and paste of a Comic Sans text into, say an Instagram or a Facebook bio. Rather, fonts are a set of graphics that you can apply to Unicode glyphs. It is the website owner who dictates the specific font used on a particular site.
+
+Emojis work the same way as symbols. They each have a unique Unicode number allowing you to perform a font generator copy and paste to whatever platform you wish.
+
+How do I get the generated font?
+Getting the generated font is easy with our online font generator. All you need to do is highlight the generated font. Then, copy and paste to whatever platform you wish.
+
+Most computers, processors, and devices will accept and be compatible with the generated ‘font.’ However, there can be some exceptions. For example, certain websites may not be able to support certain Unicode characters.
+
+In these instances, you’ll see a symbol of a box instead of your fancy font. This box is the default whenever a browser cannot support a certain character.
