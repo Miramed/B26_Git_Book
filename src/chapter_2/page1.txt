@@ -1,0 +1,22 @@
+
+How does our font generator work?
+Our font generator works by taking normal text you input and converting it into a unique and fun font you can use. Here are the steps to complete this process:
+
+Type your text into the font generator
+Wait for the font generator to provide you with different styles
+Choose the text style you like
+Copy and paste into Instagram, Facebook, or other social media platforms
+Different text styles resulting from the generator can include unique cursive, calligraphy, handwriting, and web script fonts. You can also choose to add different symbols and emojis as well.
+
+Technically a font generator does not generate fonts. Instead, this type of text generator maps the inputted text to related, but ‘fancier’ symbols or characters that are part of the Unicode Standard.
+
+What is Unicode?
+Unicode is an internationally recognized standard for identifying the different characters we see on our computer screens.
+
+Since computers only recognize zeros and ones (i.e. binary), each character is assigned a unique binary number. For example, the capital letter “A” has a Unicode character number of 65. A lowercase “a” has a Unicode character number of 97.
+
+Unicode has over 137,000 characters consisting of your ‘normal’ characters, such as the text you’re reading right now, and the fancier characters you get from a font changer.
+
+Before the establishment of the Unicode Standard, there were hundreds of different systems, known as character encodings, used to assign numbers to the characters. As you can imagine, this can make it extremely difficult for computers to share text and data with each other.
+
+Today, Unicode has made it much easier to share text and characters amongst different operating systems, smart devices, search engines, and more.
