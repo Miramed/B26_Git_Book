@@ -1,0 +1,8 @@
+
+so far we learned git
+
+commit --> push
+
+romete --> local
+
+we are doing great. 
